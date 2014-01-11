@@ -10,11 +10,11 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the OMNI trees, use a command like this:
 
-    repo init -u git://github.com/AnimeROM/android.git -b <branch>
+    repo init -u git://github.com/AnimeROM/android.git -b android-4.4
 
 or use this:
 
-    repo init -u https://github.com/AnimeROM/android -b <branch>
+    repo init -u https://github.com/AnimeROM/android -b android-4.4
 
 Then to sync up:
 
