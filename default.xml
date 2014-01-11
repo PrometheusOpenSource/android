@@ -17,6 +17,9 @@
   
   <remote  name="anime"         
            fetch="https://github.com/AnimeROM" />
+           
+  <remote  name="NexPerience"
+             fetch="https://github.com/NexPerience" />
 
   <default revision="refs/tags/android-4.4.2_r1"
            remote="aosp"
