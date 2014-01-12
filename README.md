@@ -40,4 +40,4 @@ AnimeROM Team
 
 Graphic Desing
 
-* Uriel AKA <b>Azaki Hayabusa</b>
+* Uriel AKA <b>Azaki Noob</b>
