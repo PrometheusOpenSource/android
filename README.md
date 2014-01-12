@@ -26,12 +26,13 @@ Then to build:
 
 
 
-The AnimeROM Team...
+AnimeROM Team
+===============
 
 MEXICAN DEVELOPERS
 
-CARLOS JESUS    
+* Carlos Jesús AKA <b>TeamMEX</b>
  
-ALEJANDRO FLORES   
+* Alejandro Flores 
 
-MIGUEL ANGEL   
+* Miguel Angel Aka <b>XPERIA-FAN13</B>
