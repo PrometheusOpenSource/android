@@ -5,7 +5,7 @@ AnimeROM
 Getting Started
 ---------------
 
-To get started with OMNI ROM, you'll need to get
+To get started with AnimeROM, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the OMNI trees, use a command like this:
