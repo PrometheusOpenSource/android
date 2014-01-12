@@ -5,6 +5,15 @@ AnimeROM
 Getting Started
 ---------------
 
+SETUP BUILD ENVIROMENT
+
+DOWNLOAD ANY LINUX DISTRO
+
+Prefer Linux Mint 64 Bits  [Download Link](http://mirror.umd.edu/linuxmint/images/stable/16/linuxmint-16-cinnamon-dvd-64bit.iso)
+
+COMPLETE GUIDE FOR SETUP ALL ENVIROMENT  [XDA Guide](http://forum.xda-developers.com/showthread.php?t=2485160)
+
+
 To get started with AnimeROM, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
