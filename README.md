@@ -7,7 +7,7 @@ Getting Started
 
 SETUP BUILD ENVIROMENT
 
-DOWNLOAD ANY LINUX DISTRO
+Download Linux Distro
 
 Prefer Linux Mint 64 Bits  [Download Link](http://mirror.umd.edu/linuxmint/images/stable/16/linuxmint-16-cinnamon-dvd-64bit.iso)
 
