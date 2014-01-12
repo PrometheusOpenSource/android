@@ -29,10 +29,15 @@ Then to build:
 AnimeROM Team
 ===============
 
-MEXICAN DEVELOPERS
+    MEXICAN DEVELOPERS
 
 * Carlos Jesús AKA <b>TeamMEX</b>
  
 * Alejandro Flores 
 
 * Miguel Angel Aka <b>XPERIA-FAN13</B>
+
+
+Graphic Desing
+
+* Uriel AKA <b>Azaki Hayabusa</b>
