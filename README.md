@@ -31,7 +31,7 @@ AnimeROM Team
 
     MEXICAN DEVELOPERS
 
-* Carlos Jesús AKA <b>TeamMEX</b>
+* Carlos Jesús AKA <b>Klozz</b> and <b>TeamMEX</b>in XDA-Developers
  
 * Alejandro Flores 
 
