@@ -29,7 +29,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="android" remote="anime" revision="android-4.4" />
+  <project path="android" name="AnimeROM/android" remote="github" revision="android-4.4" />
 
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="android_art" remote="omnirom" revision="android-4.4" />
@@ -253,14 +253,14 @@
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="android_frameworks_av" remote="omnirom" revision="android-4.4" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="anime" revision="android-4.4" />
+  <project path="frameworks/base" name="AnimeROM/android_frameworks_base" remote="github" revision="android-4.4" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="android_frameworks_native" remote="anime" revision="android-4.4" />
+  <project path="frameworks/native" name="AnimeROM/android_frameworks_native" remote="github" revision="android-4.4" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/colorpicker" name="android_frameworks_opt_colorpicker" remote="omnirom" revision="android-4.4" />
@@ -310,7 +310,7 @@
   <project path="libcore" name="android_libcore" remote="omnirom" revision="android-4.4" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/Apollo" name="android_packages_apps_Apollo" remote="anime" revision="android-4.4" />
+  <project path="packages/apps/Apollo" name="AnimeROM/android_packages_apps_Apollo" remote="github" revision="android-4.4" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="omnirom" revision="android-4.4" />
@@ -325,7 +325,7 @@
   <project path="packages/apps/DashClock" name="android_packages_apps_DashClock" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="omnirom" revision="android-4.4" />
-  <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="anime" revision="android-4.4" />
+  <project path="packages/apps/DSPManager" name="AnimeROM/android_packages_apps_DSPManager" remote="github" revision="android-4.4" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
@@ -351,7 +351,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="anime" revision="android-4.4" />
+  <project path="packages/apps/Settings" name="AnimeROM/android_packages_apps_Settings" remote="github" revision="android-4.4" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -438,7 +438,7 @@
   <project path="sdk" name="platform/sdk" />
   <project path="system/core" name="android_system_core" remote="omnirom" revision="android-4.4" />
   <project path="system/extras" name="android_system_extras" remote="omnirom" revision="android-4.4" />
-  <project path="system/media" name="android_system_media" groups="pdk" remote="anime" revision="android-4.4" />
+  <project path="system/media" name="AnimeROM/android_system_media" groups="pdk" remote="github" revision="android-4.4" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/vold" name="android_system_vold" remote="omnirom" revision="android-4.4" />
@@ -453,7 +453,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
-  <project path="vendor/Anime" name="android_vendor_Anime" remote="anime" revision="android-4.4" />
+  <project path="vendor/Anime" name="AnimeROM/android_vendor_Anime" remote="github" revision="android-4.4" />
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/FileManager" name="AnimeROM/android_packages_apps_FileManager" revision="android-4.4" />
 </manifest>
