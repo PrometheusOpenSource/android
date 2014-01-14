@@ -461,5 +461,5 @@
   <!--some new adds-->
   <project path="external/focal" name="xplodwild/android_external_Focal" remote="github" revision="master" />
   <project path="packages/apps/focal" name="xplodwild/android_packages_apps_Focal" remote="github" revision="master" />
-  <project path="packages/apps/InCallUI" name=""AnimeROM/android_packages_apps_InCallUI" remote="github" revision="android-4.4" />
+  <project path="packages/apps/InCallUI" name="AnimeROM/android_packages_apps_InCallUI" remote="github" revision="android-4.4" />
 </manifest>
