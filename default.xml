@@ -302,7 +302,7 @@
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/sony/DASH" name="android_hardware_sony_DASH" remote="anime" revision="android-4.4"  />
-  <project path="hardware/ril" name="android_hardware_ril" remote="omnirom" revision="android-4.4" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="hardware/ril" name="android_hardware_ril" remote="omnirom" revision="android-4.4"/>
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" groups="exynos5" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="omnirom" revision="android-4.4" />
