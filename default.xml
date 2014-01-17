@@ -272,7 +272,7 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="omnirom" revision="android-4.4" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="anime" revision="android-4.4" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
