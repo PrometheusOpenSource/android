@@ -272,7 +272,6 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="omnirom" revision="android-4.4" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -377,7 +376,7 @@
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="anime" revision="android-4.4" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="omnirom" revision="android-4.4" />
   <project path="packages/wallpapers/Basic" name="android_packages_wallpapers_Basic" remote="omnirom" revision="android-4.4" />
   <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -458,6 +457,7 @@
   <project path="vendor/Anime" name="AnimeROM/android_vendor_Anime" remote="github" revision="android-4.4" />
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/FileManager" name="AnimeROM/android_packages_apps_FileManager" remote="github" revision="android-4.4" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="github" revision="android-4.4" />
   
   <!--some new adds-->
   <project path="external/focal" name="xplodwild/android_external_Focal" remote="github" revision="master" />
