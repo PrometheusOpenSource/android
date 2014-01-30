@@ -281,7 +281,7 @@
   <project path="frameworks/webview" name="platform/frameworks/webview" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/akm" name="platform/hardware/akm" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="omnirom" revision="android-4.4" />
+  <project path="hardware/broadcom/wlan" name="libbt" name="android_hardware_broadcom_libbt" remote="omnirom" revision="android-4.4" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="omnirom" revision="android-4.4" />
