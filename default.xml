@@ -453,10 +453,12 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="vendor/Anime" name="AnimeROM/android_vendor_Anime" remote="github" revision="android-4.4" />
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-4.4" />
-  <project path="packages/apps/FileManager" name="AnimeROM/android_packages_apps_FileManager" remote="github" revision="android-4.4" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="omnirom" revision="android-4.4" />
   
   <!--some new adds-->
   <project path="external/focal" name="xplodwild/android_external_Focal" remote="github" revision="master" />
   <project path="packages/apps/focal" name="xplodwild/android_packages_apps_Focal" remote="github" revision="master" />
+  <project path="packages/apps/FileManager" name="AnimeROM/android_package_AnimeManager" remote="github" revision="android-4.4" />
+  <project path="packages/apps/AnimePapers" name="AnimeROM/android_package_AnimePapers" remote="github" revision="android-4.4" />
+  
 </manifest>
