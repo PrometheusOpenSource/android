@@ -1,6 +1,8 @@
 AnimeROM
 ========
 
+AnimeROM based on OmniROM
+
 
 Getting Started
 ---------------
