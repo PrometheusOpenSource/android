@@ -69,7 +69,6 @@
   <project path="external/arduino" name="platform/external/arduino" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="development" name="android_development" remote="omnirom" revision="android-4.4" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" />
