@@ -39,6 +39,7 @@
   <project path="bootable/recovery" name="android_bootable_recovery" remote="anime" revision="android-4.4"/>
   <project path="cts" name="platform/cts" groups="cts" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="dalvik" name="android_dalvik" remote="omnirom" revision="android-4.4" />
+<<<<<<< HEAD
   <project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -69,6 +70,38 @@
   <project path="external/arduino" name="platform/external/arduino" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+=======
+  <project path="developers/build" name="platform/developers/build" />
+  <project path="developers/demos" name="platform/developers/demos" />
+  <project path="developers/docs" name="platform/developers/docs" />
+  <project path="developers/samples/android" name="platform/developers/samples/android" />
+  <project path="development" name="android_development" remote="omnirom" revision="android-4.4" />
+  <project path="device/common" name="device/common" />
+  <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" />
+  <project path="device/generic/common" name="device/generic/common" groups="pdk" />
+  <project path="device/generic/goldfish" name="device/generic/goldfish" groups="pdk" />
+  <project path="device/generic/mips" name="device/generic/mips" groups="pdk" />
+  <project path="device/generic/mini-emulator-armv7-a-neon" name="android_device_generic_mini-emulator-armv7-a-neon" remote="omnirom" revision="android-4.4" />
+  <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" />
+  <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" />
+  <project path="device/generic/x86" name="device/generic/x86" groups="pdk" />
+  <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
+  <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
+  <project path="device/sample" name="device/sample" groups="pdk" />
+  <project path="docs/source.android.com" name="platform/docs/source.android.com" />
+  <project path="external/aac" name="platform/external/aac" groups="pdk" />
+  <project path="external/android-clat" name="platform/external/android-clat" />
+  <project path="external/android-mock" name="platform/external/android-mock" />
+  <project path="external/ant-glob" name="platform/external/ant-glob" />
+  <project path="external/antlr" name="platform/external/antlr" />
+  <project path="external/apache-harmony" name="platform/external/apache-harmony" />
+  <project path="external/apache-http" name="platform/external/apache-http" />
+  <project path="external/apache-qp" name="platform/external/apache-qp" />
+  <project path="external/apache-xml" name="platform/external/apache-xml" />
+  <project path="external/arduino" name="platform/external/arduino" />
+  <project path="external/bison" name="platform/external/bison" groups="pdk" />
+  <project path="external/blktrace" name="platform/external/blktrace" />
+>>>>>>> efd18c1b63d9d1a910f1f330155f92a3c2bccf24
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="omnirom" revision="android-4.4" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -282,14 +315,23 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/akm" name="platform/hardware/akm" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="omnirom" revision="android-4.4" />
+<<<<<<< HEAD
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+=======
+  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="omnirom" revision="android-4.4" />
+  <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
+>>>>>>> efd18c1b63d9d1a910f1f330155f92a3c2bccf24
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="omnirom" revision="android-4.4" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/audio-caf" name="android_hardware_qcom_audio-caf" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="omnirom" revision="android-4.4" />
+<<<<<<< HEAD
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+=======
+  <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" />
+>>>>>>> efd18c1b63d9d1a910f1f330155f92a3c2bccf24
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="omnirom" revision="android-4.4" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -298,12 +340,20 @@
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/qcom/power" name="android_hardware_qcom_power" remote="omnirom" revision="android-4.4" />
+<<<<<<< HEAD
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/sony/DASH" name="android_hardware_sony_DASH" remote="anime" revision="android-4.4"  />
   <project path="hardware/ril" name="android_hardware_ril" remote="omnirom" revision="android-4.4"/>
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" groups="exynos5" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+=======
+  <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
+  <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="omnirom" revision="android-4.4" />
+  <project path="hardware/ril" name="android_hardware_ril" remote="omnirom" revision="android-4.4" />
+  <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" groups="exynos5" />
+  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
+>>>>>>> efd18c1b63d9d1a910f1f330155f92a3c2bccf24
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="omnirom" revision="android-4.4" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -337,7 +387,12 @@
   <project path="packages/apps/Music" name="platform/packages/apps/Music" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="omnirom" revision="android-4.4" />
+<<<<<<< HEAD
   <project path="packages/apps/OmniGears" name="android_packages_apps_Gears" remote="anime" revision="android-4.4" />
+=======
+  <project path="packages/apps/OmniGears" name="android_packages_apps_OmniGears" remote="omnirom" revision="android-4.4" />
+  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="omnirom" revision="android-4.4" />
+>>>>>>> efd18c1b63d9d1a910f1f330155f92a3c2bccf24
   <project path="packages/apps/OmniTorch" name="android_packages_apps_OmniTorch" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/apps/OpenDelta" name="AnimeROM/android_packages_apps_OpenDelta" remote="github" revision="android-4.4" />
@@ -360,12 +415,21 @@
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME" remote="omnirom" revision="android-4.4" />
+<<<<<<< HEAD
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+=======
+  <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
+  <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
+  <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
+  <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
+  <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
+  <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="omnirom" revision="android-4.4" />
+>>>>>>> efd18c1b63d9d1a910f1f330155f92a3c2bccf24
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="omnirom" revision="android-4.4" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="omnirom" revision="android-4.4" />
