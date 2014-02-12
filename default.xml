@@ -202,6 +202,7 @@
   <project path="external/nist-pkits" name="platform/external/nist-pkits" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/nist-sip" name="platform/external/nist-sip" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/noto-fonts" name="platform/external/noto-fonts" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="omnirom" revision="android-4.4"/>
   <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/objenesis" name="platform/external/objenesis" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/okhttp" name="platform/external/okhttp" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
