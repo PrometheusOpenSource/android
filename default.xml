@@ -258,9 +258,9 @@
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/av" name="android_frameworks_av" remote="omnirom" revision="android-4.4" />
   <project path="frameworks/base" name="AnimeROM/android_frameworks_base" remote="github" revision="android-4.4" />
-  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="frameworks/ex" name="platform/frameworks/ex" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/mff" name="platform/frameworks/mff" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/ml" name="platform/frameworks/ml" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
