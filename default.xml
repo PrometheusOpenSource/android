@@ -468,7 +468,8 @@
   <project path="packages/apps/focal" name="xplodwild/android_packages_apps_Focal" remote="github" revision="master" />
   <project path="packages/apps/FileManager" name="AnimeROM/android_package_AnimeManager" remote="github" revision="android-4.4" />
   <project path="packages/apps/AnimePapers" name="AnimeROM/android_package_AnimePapers" remote="github" revision="android-4.4" />
-  <project name="CyanogenMod/android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="github" revision="cm-11.0" />
+  <!--<project name="CyanogenMod/android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="github" revision="cm-11.0" />-->
+  <project name="razrqcom-dev-team/android_hardware_qcom_display-msm8226" path="hardware/qcom/display-caf-new" remote="github" revision="cm-11.0" />
   <project name="android_hardware_qcom_fm" path="hardware/qcom/fm" remote="anime" revision="android-4.4" />
   <project name="Cyanogenmod/android_hardware_qcom_media-caf-new" path="hardware/qcom/media-caf-new" remote="github" revision="cm-11.0" />  
 
